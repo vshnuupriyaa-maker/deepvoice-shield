@@ -63,4 +63,4 @@ def plot_feature_chart(file):
         plt.close('all')
         blank = np.zeros((400, 800, 3), dtype=np.uint8)
         blank[:, :] = [15, 15, 46]
-        return blank
+        return blank# updated

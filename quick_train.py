@@ -115,3 +115,4 @@ with open("models/meta.txt", "w") as f:
 
 print("\n✅ model.pkl, scaler.pkl, meta.txt saved to models/")
 print("   Restart app.py to load the new model.")
+# updated

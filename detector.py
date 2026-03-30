@@ -100,3 +100,4 @@ def predict(file, model, scaler):
         raise
     except Exception as e:
         raise RuntimeError(f"Prediction failed: {str(e)}")
+# updated

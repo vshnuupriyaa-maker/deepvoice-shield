@@ -450,4 +450,5 @@ if __name__ == "__main__":
     if sys.platform == "win32":
         import asyncio
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-    demo.launch(share=True)
+    demo.launch(share=True) 
+ # updated

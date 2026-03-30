@@ -9,4 +9,4 @@ joblib
 pillow
 scipy
 fpdf2
-soxr
+soxr# updated

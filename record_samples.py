@@ -15,4 +15,4 @@ for i in range(20):
     write(f"dataset/real/real_{i+1}.wav", 16000, audio)
     print(f"✅ Saved sample {i+1}")
 
-print("Done! All 20 samples saved.")
+print("Done! All 20 samples saved.")# updated

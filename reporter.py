@@ -63,3 +63,4 @@ def generate_pdf_report(filename, prob_fake, risk_level, duration, avg_pitch, re
     except Exception as e:
         print(f"Error generating PDF: {e}")
         return None
+# updated
